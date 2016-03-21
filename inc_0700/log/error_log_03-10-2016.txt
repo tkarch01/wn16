@@ -1,0 +1,9 @@
+[Mar-10-2016 13:32:11] Table 'keahialo_itc250.wn16_Responses' doesn't exist in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/Pager_inc.php on line 140
+[Mar-10-2016 15:12:35] Undefined variable: myResult in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/response_view.php on line 48
+[Mar-10-2016 15:20:13] Undefined variable: myResult in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/response_view.php on line 48
+[Mar-10-2016 15:26:14] Use of undefined constant id - assumed 'id' in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/response_view.php on line 23
+[Mar-10-2016 15:26:59] Use of undefined constant id - assumed 'id' in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/response_view.php on line 23
+[Mar-10-2016 15:27:09] Undefined variable: id in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/response_view.php on line 23
+[Mar-10-2016 15:33:59] Undefined variable: myResult in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/survey_view.php on line 32
+[Mar-10-2016 15:49:29] Trying to get property of non-object in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/SurveySez/Result.php on line 185
+[Mar-10-2016 15:49:29] Invalid argument supplied for foreach() in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/surveys/SurveySez/Result.php on line 185

@@ -1,0 +1,8 @@
+[Jan-27-2016 20:26:35] SQLSTATE[28000] [1045] Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1296
+[Jan-27-2016 20:26:35] Undefined variable: db in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1298
+[Jan-27-2016 20:26:44] SQLSTATE[28000] [1045] Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1296
+[Jan-27-2016 20:26:44] Undefined variable: db in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1298
+[Jan-27-2016 20:26:49] mysqli_connect(): (28000/1045): Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1271
+[Jan-27-2016 20:26:49] Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1271
+[Jan-27-2016 20:26:54] mysqli_connect(): (28000/1045): Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1271
+[Jan-27-2016 20:26:54] Access denied for user 'keahialo_twk'@'localhost' (using password: YES) in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/inc_0700/common_inc.php on line 1271

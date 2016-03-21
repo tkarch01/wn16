@@ -1,0 +1,9 @@
+[Feb-22-2016 16:58:55] include(NewsFeed.php): failed to open stream: No such file or directory in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 22
+[Feb-22-2016 16:58:55] include(NewsFeed.php): failed to open stream: No such file or directory in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 22
+[Feb-22-2016 16:58:55] include(NewsFeed.php): failed to open stream: No such file or directory in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 22
+[Feb-22-2016 16:58:55] include(): Failed opening 'NewsFeed.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 22
+[Feb-22-2016 16:58:55] Undefined property: Feed::$URL in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 64
+[Feb-22-2016 16:58:55] file_get_contents(): Filename cannot be empty in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 67
+[Feb-22-2016 16:58:55] Trying to get property of non-object in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 73
+[Feb-22-2016 16:58:55] Trying to get property of non-object in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 73
+[Feb-22-2016 16:58:55] Invalid argument supplied for foreach() in /home1/keahialo/public_html/.tribes/karchesy.com/itc250/public/wn16/news/news_list.php on line 73
